@@ -1,4 +1,7 @@
 # oracle-db-examples
+
+Note (Betlista): https://jsao.io/2018/03/creating-a-rest-api-web-server-basics/
+
 This repository stores a variety of examples demonstrating how to use the Oracle Database. 
 
 | Repo/Folder name  | Description |
