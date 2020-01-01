@@ -1,6 +1,6 @@
 # oracle-db-examples
 
-Note (Betlista): https://jsao.io/2018/03/creating-a-rest-api-web-server-basics/
+**Note (Betlista):** https://jsao.io/2018/03/creating-a-rest-api-with-node-js-and-oracle-database/
 
 This repository stores a variety of examples demonstrating how to use the Oracle Database. 
 
